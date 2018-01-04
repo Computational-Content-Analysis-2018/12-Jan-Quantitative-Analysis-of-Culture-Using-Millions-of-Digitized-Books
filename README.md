@@ -1,0 +1,2 @@
+# Comments on: Quantitative Analysis of Culture Using Millions of Digitized Books
+[Michel, Jean-Baptiste et al. 2010.  “Quantitative Analysis of Culture Using Millions of Digitized Books.” Science express, December 16.](http://www.sciencemag.org/content/early/2010/12/15/science.1199644.full.pdf)
